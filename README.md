@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+In the project we are using Json-server to run a local database, After
+running `npm start` in a new terminal run the below command to start up the server.
+
+### `npm run server`
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
